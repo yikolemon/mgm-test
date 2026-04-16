@@ -1232,8 +1232,8 @@ Long mgmWithdraw(MgmWithdrawRequest request);
 ```json
 {
 "userId": 52037,
-"inviterUserId ": 52036,
-"activityCode ": "MGM",
+"inviterUserId": 52036,
+"activityCode": "MGM",
 "mediaSource": "MGM"
 }
  ```

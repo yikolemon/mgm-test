@@ -1,6 +1,3 @@
-## 背景
-
-loan-biz-service 是拍拍贷海外贷款业务服务平台，包含 award（返现奖励）和 mgm（Member Get Member 邀请拉新）等子模块。
 
 ## 领域模型
 
